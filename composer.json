@@ -1,6 +1,6 @@
 {
-	"name": "dotmpe/odataphpprod",
-	"version": "0.0.1",
+	"name": "MSOpenTech/odataphpprod",
+	"version": "1.2",
 	"dist": {
 		"url": "https://github.com/dotmpe/odataphpprod/archive/master.zip",
 		"type": "zip"
